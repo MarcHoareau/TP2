@@ -1,23 +1,33 @@
-La Cigale, ayant chanté Tout l'été,
-Se trouva fort dépourvue
-Quand la bise fut venue :
-Pas un seul petit morceau
-De mouche ou de vermisseau.
+# La Cigale et la Fourmi 
 
-Elle alla crier famine
-Chez la Fourmi sa voisine,
-La priant de lui prêter
-Quelque grain pour subsister
-Jusqu'à la saison nouvelle.
-"Je vous paierai, lui dit-elle,
-Avant l'Oût, foi d'animal,
-Intérêt et principal."
+![image](../rush/images/cigale_fourmi.jpg)
 
-La Fourmi n'est pas prêteuse :
-C'est là son moindre défaut.
-Que faisiez-vous au temps chaud ?
-Dit-elle à cette emprunteuse.
-- Nuit et jour à tout venant
-Je chantais, ne vous déplaise.
-- Vous chantiez ? j'en suis fort aise.
-Eh bien! dansez maintenant.
+  La Cigale, ayant chanté Tout l'été,
+  Se trouva fort dépourvue
+  Quand la bise fut venue :
+  Pas un seul petit morceau
+  De mouche ou de vermisseau.
+
+  ![image](../rush/images/cigale.gif)
+ 
+  Elle alla crier famine
+  Chez la Fourmi sa voisine,
+  La priant de lui prêter
+  Quelque grain pour subsister
+  Jusqu'à la saison nouvelle.
+  "Je vous paierai, lui dit-elle,
+  Avant l'Oût, foi d'animal,
+  Intérêt et principal."
+  
+  ![image](../rush/images/fourmi.gif)
+
+  La Fourmi n'est pas prêteuse :
+  C'est là son moindre défaut.
+  Que faisiez-vous au temps chaud ?
+  Dit-elle à cette emprunteuse.
+  - Nuit et jour à tout venant
+  Je chantais, ne vous déplaise.
+  - Vous chantiez ? j'en suis fort aise.
+  Eh bien! dansez maintenant.
+
+  ![image](../rush/images/frise.png)
